@@ -58,5 +58,12 @@
 //     console.log(muliplicationTable);
 // }
 
+// for loop array 
 
+var number = [10, 11, 12, 13, 14, 15, 17, 18, 19, 99, 100, 499];
+
+for (var i = 0; i < number.length; i++) {
+    var numbers = number [i];
+    console.log(numbers);
+}
 
